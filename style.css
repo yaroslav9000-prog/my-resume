@@ -1,0 +1,17 @@
+#myPhoto{
+    width: 150px;
+    height: 200px;
+    border-radius: 30px;
+}
+h2{
+    justify-content: start;
+}
+
+#factory, #chef , #fast-delivery{
+    height:60px;
+    width: 60px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: auto;
+    margin-top: 20px;
+}
